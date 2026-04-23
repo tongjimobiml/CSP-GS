@@ -15,7 +15,13 @@ The constrained shortest path (CSP) problem has wide applications in travel path
 
 
 ## Training & Evaluation
-### Train and Evaluate on Synthetic dataset
+### Evaluate on Shanghai dataset
 ```bash
-
+python main.py --dir_path data/map-2030-50-50-1-150-500-new
 ```
+
+### Evaluate on Koln dataset
+```bash
+python main.py --dir_path koln_data/koln1630_1.5
+```
+
