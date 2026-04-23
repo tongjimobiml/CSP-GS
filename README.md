@@ -1,4 +1,4 @@
-# asynMARL
+# CSP-GS
 This repository contains the official PyTorch implementation of the paper:
 
 > **Learn to Optimize the Constrained Shortest Path on Large Dynamic Graphs**
